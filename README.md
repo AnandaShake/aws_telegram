@@ -1,7 +1,7 @@
 # aws_telegram
 AWS Rekognition + Telegram bot API
 
-run `bundle install`
-set your credentionals in .env file
-send your bot an image
-enjoy :)
+run `bundle install` \n
+set your credentionals in .env file \n
+send your bot an image \n
+enjoy :) \n
